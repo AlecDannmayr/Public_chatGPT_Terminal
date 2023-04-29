@@ -30,7 +30,7 @@ cd.. Public_chatGPT_Terminal.git
 ```
 
 5. In VsCode open the whole folder you downloaded from github "Public_chatGPT_Terminal", and navigate to the ```
-.env``` file and open it, you should see ```javascript API_KEY=""``` in this file where you will need to get and add a key.
+.env``` file and open it, you should see ```API_KEY=""``` in this file where you will need to get and add a key.
 
 ## Get an API_KEY 
 
