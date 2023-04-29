@@ -2,7 +2,7 @@
 
 ### Developed by Alec Dannmayr
 
-TerminatorGPT is a micro cml (command line) operated software package for accessing ChatGPT from your Linux cml. 
+TerminatorGPT is a micro cmd (command line) operated software package for accessing ChatGPT from your Linux, Windows or Mac Terminal. 
 
 ## Installation
 
@@ -27,7 +27,7 @@ git clone git@github.com:AlecDannmayr/Public_chatGPT_Terminal.git
 
 *If you haven't used Git before, or there is an error, install git on your machine by following the instructions [Here] (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) then follow the step above*
 
-4. In your cml or terminal navigate into this folder by typing the below 
+4. In your cmd or terminal navigate into this folder by typing the below 
 
 ```bash
 cd Public_chatGPT_Terminal.git
@@ -66,7 +66,7 @@ API_KEY="Paste key here instead of this text"
 
 ## Go wild! 
 
-12. Save and close all these files, then go back to your terminal/cml and run the command
+12. Save and close all these files, then go back to your terminal/cmd and run the command
 
 ```bash
 npm run TerminatorGPT
