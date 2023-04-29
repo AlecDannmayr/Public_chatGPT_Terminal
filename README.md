@@ -31,7 +31,7 @@ git clone git@github.com:AlecDannmayr/Public_chatGPT_Terminal.git
 cd Public_chatGPT_Terminal.git
 ```
 
-*```cd ..``` (Change Directory) allows you to move back through a folder director while ```cd <file_name>``` allows you to move into a directory.
+*```cd ..``` (Change Directory) allows you to move back through a folder director while ```cd <file_name>``` allows you to move into a directory.*
 
 If you have VsCode (otherwise see below):
 
