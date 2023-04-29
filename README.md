@@ -1,4 +1,4 @@
-# TerminatorGPT - Terminal chatGPT
+# TerminatorGPT - Terminal chatGPT 🧑🏼‍💻
 
 ### Developed by Alec Dannmayr
 
