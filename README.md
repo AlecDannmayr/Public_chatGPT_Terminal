@@ -58,7 +58,7 @@ Rightclick on the ```.env``` file and open it in any text editor like macs "text
 
 10. Enter any name you like then click create and copy the secret key, you will only get to see this once so keep it safe and don't share it with anyone online! If you loose this key you can always generate a new one by following the steps above.
 
-11. Copy and paste this key back into your .env file in VsCode or your textEdit/notebad inside the API_KEY quotations: 
+11. Copy and paste this key back into your .env file in VsCode or your textEdit/notepad inside the API_KEY quotations: 
 
 ```js
 API_KEY="Paste key here instead of this text"
