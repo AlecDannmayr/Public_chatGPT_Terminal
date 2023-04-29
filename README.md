@@ -34,15 +34,15 @@ cd.. Public_chatGPT_Terminal.git
 
 ## Get an API_KEY 
 
-8. You now need to get your API_Key from ChatGpt, you don't need the paid version the free version is fine, it comes with free credits which take A LONG time to use up if you only have the free version. Go to [https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys) and create an account if you don't have one.
+8. You now need to get your API_Key from OpenAi, you don't need the paid version, the free version is fine, it comes with free credits which take some time to use up. Go to [https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys) and create an account if you don't have one.
 
 9. Once you've created an account, follow the link above and select 
 
 ```Create new secret key```
 
-10. Enter any name you like and copy the secret key, you will only get to see this once so keep it safe if you want to use it again and don't share it with anyone online! If you loose this key you can always generate a new one by following the steps above.
+10. Enter any name you like click create and copy the secret key, you will only get to see this once so keep it safe and don't share it with anyone online! If you loose this key you can always generate a new one by following the steps above.
 
-11. copy and paste this key back into your .env file in VsCode and paste it between the quotations in your ```API_KEY="<Paste Key Here>"```
+11. copy and paste this key back into your .env file in VsCode and paste it between the quotations in the ```API_KEY="<Paste Key Here>"```
 
 ## Go wild! 
 
@@ -52,4 +52,4 @@ cd.. Public_chatGPT_Terminal.git
 npm run TerminatorGPT
 ```
 
-13. Ask what you like, each time you hit return you're asking a question. If you need to quit either close the terminal or enter ```<Ctrl> + C``` to stop the process and stop the software from running.
+13. Ask what you like, each time you hit return you're asking a question and ran the openAi API. If you need to quit either close the terminal or enter ```<Ctrl> + C``` to stop the process and stop the software from running.
