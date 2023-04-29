@@ -44,8 +44,6 @@ If you don't have vs code:
 
 Rightclick on the ```.env``` file and open it in any text editor like macs "textEdit", if you don't have a .env file create one by opening a text editor or similiar file and saving it as ```.env``` exactly.
 
-5.1 
-
 ## Get an API_KEY 
 
 8. You now need to get your API_Key from OpenAi, you don't need the paid version, the free version is fine, it comes with free credits which take some time to use up. Go to [https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys) and create an account if you don't have one.
