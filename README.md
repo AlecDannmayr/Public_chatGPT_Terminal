@@ -1,4 +1,4 @@
-# TerminatorGPT - Terminal chatGPT
+# TerminatorGPT - Terminal chatGPT Developed by Alec Dannmayr
 
 TerminatorGPT is a micro cml (command line) operated software package for accessing ChatGPT from your Linux cml. 
 
