@@ -69,3 +69,5 @@ npm run TerminatorGPT
 ```
 
 13. Ask what you like, each time you hit return you're asking a question and ran the openAi API. If you need to quit either close the terminal or enter ```<Ctrl> + C``` to stop the process and stop the software from running.
+
+Happy hacking! 
