@@ -58,7 +58,7 @@ Rightclick on the ```.env``` file and open it in any text editor like macs "text
 
 11. Copy and paste this key back into your .env file in VsCode or your textEdit/notebad inside the quotations in the: 
 
-```API_KEY="<Paste Key Here>"```
+```API_KEY="Paste key here instead of this text"```
 
 ## Go wild! 
 
