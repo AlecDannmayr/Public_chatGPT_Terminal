@@ -11,7 +11,7 @@ To install node.js:
 
 1. Go to [https://nodejs.org/en](https://nodejs.org/en/) and follow the simple instructions, download and follow the setup wizard, It's recommended you use the "recommended" version not the "current version"
 
-2. You may want to install an IDE (Integrated development environment), this is an environment for writing code, [VsCode by Microsoft](https://code.visualstudio.com/) is widely used and free, follow this link and follow to steps to install. 
+2. You may want to install an IDE (Integrated development environment), this is an environment for writing code (although you won't need to write any or have any knowledge of programming here, it might help), [VsCode by Microsoft](https://code.visualstudio.com/) is widely used and free, follow this link and follow to steps to install. 
 
 **It's not necessary if you don't want to download a new IDE text editor in step-2, and for simplicity if you don't already have an IDE like VsCode you can skip this step**
 
