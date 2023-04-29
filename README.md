@@ -31,7 +31,7 @@ git clone git@github.com:AlecDannmayr/Public_chatGPT_Terminal.git
 cd Public_chatGPT_Terminal.git
 ```
 
-*```cd ..``` (Change Directory) allows you to move back through a folder director while ```cd <file_name>``` allows you to move into a directory.*
+*```cd ..``` (Change Directory) allows you to move back through a folder while ```cd <file_name>``` allows you to move into a folder directory.*
 
 If you have VsCode (otherwise see below):
 
@@ -42,10 +42,9 @@ API_KEY=""``` and save the file.
 
 If you don't have vs code:
 
-Rightclick on the ```.env``` file and open it in any text editor like macs "textEdit", if you don't have a .env file create one by opening a textEdit or similiar file and saving it as ```.env``` exactly.
+Rightclick on the ```.env``` file and open it in any text editor like macs "textEdit", if you don't have a .env file create one by opening a text editor or similiar file and saving it as ```.env``` exactly.
 
 5.1 
-
 
 ## Get an API_KEY 
 
