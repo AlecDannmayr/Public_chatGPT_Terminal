@@ -9,28 +9,43 @@ You'll need to install node.js to run this software. Node.js is freeware used ar
 
 To install node.js:
 
-1. Go to [https://nodejs.org/en](https://nodejs.org/en/) and follow the simple instructions, download and follow the setup wizard, It's recommended you use the "recommended" version not the "current version" 
+1. Go to [https://nodejs.org/en](https://nodejs.org/en/) and follow the simple instructions, download and follow the setup wizard, It's recommended you use the "recommended" version not the "current version"
 
-2. You will also need to install an IED, this is an environment for writing code, [VsCode by Microsoft](https://code.visualstudio.com/) is widely used and free, follow this link and follow to steps to install.
+**It's not necessary if you don't want to download a new IED text editor in step-2, for simplicity if you don't already have and IED like VsCode you can skip this step to step 3**
+
+2. You may want to install an IED, this is an environment for writing code, [VsCode by Microsoft](https://code.visualstudio.com/) is widely used and free, follow this link and follow to steps to install. 
 
 ## Usage 
 
-3. If you have used git before Clone the software repository from github by copying this code below and pasting it in your Mac Terminal or Windows Command line tool.
-
-*If you haven't used Git before install git on your machine by following the instructions [Here] (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) then follow the step above*
+3. Copy this code below and pasting it in your Mac Terminal or Windows Command line tool.
 
 ```bash
 git clone git@github.com:AlecDannmayr/Public_chatGPT_Terminal.git
 ```
 
-4. In your cml or terminal navigate into this folder by typing the below
+*If you haven't used Git before, or there is an error, install git on your machine by following the instructions [Here] (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) then follow the step above*
+
+4. In your cml or terminal navigate into this folder by typing the below 
 
 ```bash
-cd.. Public_chatGPT_Terminal.git
+cd Public_chatGPT_Terminal.git
 ```
 
+*```cd ..``` (Change Directory) allows you to move back through a folder director while ```cd <file_name>``` allows you to move into a directory.
+
+If you have VsCode (otherwise see below):
+
 5. In VsCode open the whole folder you downloaded from github "Public_chatGPT_Terminal", and navigate to the ```
-.env``` file and open it, you should see ```API_KEY=""``` in this file where you will need to get and add a key.
+.env``` file and open it, you should see ```API_KEY=""``` in this file where you will need to get and add a key. If you don't have a ```
+.env``` file, create one and add the code ```bash
+API_KEY=""``` and save the file.
+
+If you don't have vs code:
+
+Rightclick on the ```.env``` file and open it in any text editor like macs "textEdit", if you don't have a .env file create one by opening a textEdit or similiar file and saving it as ```.env``` exactly.
+
+5.1 
+
 
 ## Get an API_KEY 
 
@@ -42,11 +57,11 @@ cd.. Public_chatGPT_Terminal.git
 
 10. Enter any name you like click create and copy the secret key, you will only get to see this once so keep it safe and don't share it with anyone online! If you loose this key you can always generate a new one by following the steps above.
 
-11. copy and paste this key back into your .env file in VsCode and paste it between the quotations in the ```API_KEY="<Paste Key Here>"```
+11. Copy and paste this key back into your .env file in VsCode or your textEdit/notebad inside the quotations in the ```API_KEY="<Paste Key Here>"```
 
 ## Go wild! 
 
-12. save and close all these files, then go back to your terminal/cml and run the command
+12. Save and close all these files, then go back to your terminal/cml and run the command
 
 ```bash
 npm run TerminatorGPT
